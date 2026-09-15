@@ -1,0 +1,8 @@
+﻿build/
+data/public/
+*.o
+*.obj
+*.exe
+*.out
+.vscode/
+M1_Specification_v1.0.pdf
